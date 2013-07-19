@@ -1,0 +1,10 @@
+build type:
+test
+demo
+release
+
+version: // only used for release build
+9.99.9990
+^ Feature Plan Milestone
+  ^^ Progression of Feature Plan
+     ^^^^ minor updates, bug fixes;

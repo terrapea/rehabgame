@@ -1,0 +1,9 @@
+{ 
+  "modeID": 1, 
+  "schemaID" : 1, 
+  "Name":"ann",
+  "Age":21,
+  "isRight":true,
+  "isMale":false,
+  "MotionList":[0,1,2,3,4,5,6,7,8,9,10]
+}
